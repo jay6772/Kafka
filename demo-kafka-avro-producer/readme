@@ -1,0 +1,18 @@
+{
+  "personData": [
+    {
+      "firstName":"Jay",
+      "lastName": "Y E",
+      "address": [
+        {
+          "zip": "583201",
+          "city": "Hospet",
+          "street":"M P Prakash Nagar",
+          "streetNumber":"1234"
+        }
+      ]
+    }
+  ]
+}
+
+Endpoint: http://localhost:8080/post-kafkatopic
